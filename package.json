@@ -39,7 +39,7 @@
     "cy:verify": "cypress verify"
   },
   "devDependencies": {
-    "async": "^2.0.0-rc.4",
+    "async": "3.2.2",
     "cross-env": "^7.0.2",
     "cypress": "7.5.0",
     "grunt": "^1.0.1",
